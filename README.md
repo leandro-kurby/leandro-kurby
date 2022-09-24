@@ -2,7 +2,7 @@
 
 - 🌎 São Bento do Sapucaí - SP
 - 💻 Estudante de Desenvolvimento Web
-- 🔗 <a href="www.linkedin.com/in/leandro-kurby">
+- 🔗 LinkedIn: www.linkedin.com/in/leandro-kurby
 
 ##
 
@@ -12,6 +12,6 @@
 </div>
 
 <div><br>
- <h3>Competências</h3>
+ <p>Competências</p>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,figma,vercel,discord,stackoverflow" />
 </div>
