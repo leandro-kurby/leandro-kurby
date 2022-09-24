@@ -9,8 +9,8 @@
  <p>Linguagens</p>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
                                                                     
- <p>Sistemas Operacionais</p>  
- <img src="https://skillicons.dev/icons?i=windows,ubuntu" />                                                       
+ <p>Outros</p>  
+ <img src="https://skillicons.dev/icons?i=figma,vercel," />                                                       
 </div>
 
 <div><br>
