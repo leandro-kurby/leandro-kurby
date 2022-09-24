@@ -1,4 +1,4 @@
-### Olá, eu sou o Leandro! 🎉
+### Olá, eu sou o Leandro! Bem vindo ao meu LinkedIn.
 
 - 🌎 São Bento do Sapucaí - SP
 - 💻 Estudante de Desenvolvimento Web
