@@ -8,7 +8,7 @@
 <div>
 
   <a href="https://github.com/leandro-kurby">
-  <img height="180em" width="100vw" src="https://github-readme-stats.vercel.app/api?username=leandro  kurby&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api?username=leandro  kurby&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   
 </div>
 
