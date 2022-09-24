@@ -10,7 +10,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
                                                                     
  <p>Sistemas Operacionais</p>  
- <img src="https://skillicons.dev/icons?i=windows,linux" />                                                       
+ <img src="https://skillicons.dev/icons?i=windows,ubuntu" />                                                       
 </div>
 
 <div><br>
