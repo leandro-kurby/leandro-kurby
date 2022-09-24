@@ -1,8 +1,8 @@
 ### Olá, eu sou o Leandro! Seja bem vindo ao meu GitHub.
 
-- 🌎  São Bento do Sapucaí - SP
-- 💻  Estudante de Desenvolvimento Web
-- 🔗  LinkedIn: www.linkedin.com/in/leandro-kurby
+- 🌎ㅤSão Bento do Sapucaí - SP
+- 💻ㅤEstudante de Desenvolvimento Web
+- 🔗ㅤLinkedIn: www.linkedin.com/in/leandro-kurby
 
 ##
 
