@@ -10,7 +10,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
                                                                     
  <p>Outros</p>  
- <img src="https://skillicons.dev/icons?i=git,github,figma,vercel," />                                                       
+ <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,discord,stackoverflow" />                                                       
 </div>
 
 <div><br>
