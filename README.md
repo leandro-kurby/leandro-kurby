@@ -6,8 +6,8 @@
 ##
 
 <div style="display="inline-block">
- <p>Competências</p>
- <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript" />
+ <p>Linguagens</p>
+ <img src="https://skillicons.dev/icons?i=html, css, javascript, react" />
 </div>
 
 <div><br>
