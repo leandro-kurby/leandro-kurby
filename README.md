@@ -2,7 +2,7 @@
 
 - 🌎 São Bento do Sapucaí - SP
 - 💻 Estudante de Desenvolvimento Web
-- 🔗 LinkedIn: www.linkedin.com/in/leandro-kurby
+- 🔗 LinkedIn: www.linkedin.com/in/https-kurby
 
 ##
 
