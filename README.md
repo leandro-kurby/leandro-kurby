@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Leandro! Seja bem vindo ao meu GitHub.
+<h1 align="center">Oi 👋, sou o Leandro</h1>
 
 - 🌎 São Bento do Sapucaí - SP
 - 💻 Estudante de Desenvolvimento Web
@@ -16,7 +16,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 </div>
 
-<h1 align="center">Oi 👋, sou o Leandro</h1>
+
 <h3 align="center">Um apaixonado desenvolvedor frontend da Índia</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=leandro-kurby&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-kurby" /> </p>
