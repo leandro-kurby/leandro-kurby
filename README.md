@@ -6,6 +6,7 @@
  <li>🔗 LinkedIn: www.linkedin.com/in/https-kurby</li>
 </ul>
 
+<div></div>
  <p>Tecnologias</p>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 
