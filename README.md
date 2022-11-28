@@ -1,25 +1,15 @@
 <h1 align="center">Olá 👋, eu sou o Leandro e seja bem vindo ao meu GitHub</h1>
 
 <ul list-style="none">
- <li>
-    🌎 São Bento do Sapucaí - SP
-  <li/>
-  <li>
-   💻 Estudante de Desenvolvimento Web
-  </li>
-  <li>
-   🔗 LinkedIn: www.linkedin.com/in/https-kurby
-  <li/>
+ <li>🌎 São Bento do Sapucaí - SP<li/>
+ <li>💻 Estudante de Desenvolvimento Web</li>
+ <li>🔗 LinkedIn: www.linkedin.com/in/https-kurby<li/>
 </ul>
 
 <div><br>
  <p>Tecnologias</p>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 </div>
-
-
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt ="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"altura="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-kurby&show_icons=true&locale=en&layout=compact" alt="leandro- kurby" /></p>
 
