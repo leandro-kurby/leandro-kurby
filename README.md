@@ -13,5 +13,5 @@
 
 <div><br>
  <p>Tecnologias</p>
- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styled-components,typescript,express,postgres" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 </div>
