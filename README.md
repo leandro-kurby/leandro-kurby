@@ -1,4 +1,4 @@
-### Olá, eu sou o Leandro! Seja bem vindo ao meu GitHub.
+### 👋 Olá, eu sou o Leandro! Seja bem vindo ao meu GitHub.
 
 - 🌎 São Bento do Sapucaí - SP
 - 💻 Estudante de Desenvolvimento Web
