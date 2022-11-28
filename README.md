@@ -12,7 +12,7 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=leandro-kurby&show_icons=true&locale=pt-br" alt ="leandro-kurby" /></p>
 </div>
 
-###
+##
 
 <div><br/>
  <p>Tecnologias</p>
