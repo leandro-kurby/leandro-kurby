@@ -15,6 +15,6 @@
 ##
 
 <div>
- <strong>Tecnologias</strong>
+ <p><strong>Tecnologias</strong></p>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 </div>
