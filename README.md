@@ -7,7 +7,7 @@
 </ul>
 
 <div>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-kurby&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="leandro- kurby" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-kurby&show_icons=true&locale=pt-br&layout=compact&theme=transparent" alt="leandro- kurby" /></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=leandro-kurby&show_icons=true&locale=pt-br" alt ="leandro-kurby" /></p>
 </div>
