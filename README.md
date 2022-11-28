@@ -12,6 +12,6 @@
 </div>
 
 <div><br>
- <p>Competências e Ferramentas</p>
- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,github,figma,vercel,vite,discord,stackoverflow" />
+ <p>Tecnologias</p>
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,react, styled-components,typescript,express,postgres" />
 </div>
