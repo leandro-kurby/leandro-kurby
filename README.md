@@ -6,8 +6,8 @@
  <li>🔗 LinkedIn: www.linkedin.com/in/https-kurby</li>
 </ul>
 
-<div display="flex" flex-direction="collumn">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-kurby&show_icons=true&locale=en&layout=compact" alt="leandro- kurby" /><br/></p>
+<div padding-bottom="1rem">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-kurby&show_icons=true&locale=en&layout=compact" alt="leandro- kurby" /></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=leandro-kurby&show_icons=true&locale=en" alt ="leandro-kurby" /></p>
 </div>
