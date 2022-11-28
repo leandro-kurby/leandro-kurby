@@ -1,10 +1,16 @@
 <h1 align="center">Olá 👋, eu sou o Leandro e seja bem vindo ao meu GitHub</h1>
 
-<ul list-style=none>
+<ul list-style="none">
  <li>
     🌎 São Bento do Sapucaí - SP
-    💻 Estudante de Desenvolvimento Web
-    🔗 LinkedIn: www.linkedin.com/in/https-kurby
+  <li/>
+ 
+  <li>
+   💻 Estudante de Desenvolvimento Web
+  </li>
+ 
+  <li>
+   🔗 LinkedIn: www.linkedin.com/in/https-kurby
   <li/>
 </ul>
 
