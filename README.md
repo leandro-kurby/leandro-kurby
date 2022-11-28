@@ -8,7 +8,7 @@
 
 ##
 
-<div><br>
+<div>
  <h2>Tecnologias</h2>
  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,typescript,express,postgres" />
 </div>
